@@ -3,7 +3,7 @@ package practice_01;
 
 import java.util.Scanner;
 
-public class Huk {
+public class Hooke {
 
 	public static int[] getRandom(int[] num, int holes, int knives) {
 		int[] arr = new int[knives];
